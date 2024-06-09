@@ -21,5 +21,3 @@ const generateContacts = async (number) => {
 };
 
 await generateContacts(5);
-
-await generateContacts(3);
